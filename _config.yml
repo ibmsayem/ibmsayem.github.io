@@ -21,7 +21,7 @@ repository               : "ibmsayem/ibmsayem.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ibmsayem.jpg"
   name             : "IBM Sayem"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science Aficionado"
