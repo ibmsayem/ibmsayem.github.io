@@ -1,14 +1,12 @@
 ---
-title: "A multi-classifier for ddos attacks using stacking ensemble deep neural network"
+title: "Exploring Artificial Intelligence (AI) Techniques for Forecasting Network Traffic: Network QoS and Security Perspectives"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper presents a multi-classifier model using stacking ensemble deep neural networks that identify several types of DDoS attacks to address the issues mentioned above.
-Our proposed hybrid model incorporates Convolution Neural Network (CNN), Long Short Term Memory (LSTM), and Gated Recurrent Unit (GRU), and we show that while evaluating models
-with large datasets such as CIC-DDoS2019, ensemble technique increases model performance.'
-date: 2022-05-30
-venue: '2022 International Wireless Communications and Mobile Computing (IWCMC)'
+excerpt: 'This thesis identifies the research gaps in the field of network intrusion detection and network QoS prediction, and proposes novel solutions to address these challenges.'
+date: 2022-08-30
+venue: 'Masters Thesis, Western University'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/9824189'
+paperurl: 'https://ir.lib.uwo.ca/etd/8861/'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
