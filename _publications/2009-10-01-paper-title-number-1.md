@@ -8,4 +8,4 @@ venue: 'IEEE Transactions on Network and Service Management'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10557716'
 
 ---
-'[DOI](https://doi.org/10.1109/TNSM.2024.3414305)'
+[DOI](https://doi.org/10.1109/TNSM.2024.3414305)
