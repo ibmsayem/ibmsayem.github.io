@@ -12,8 +12,8 @@ main:
     url: /files/Resume.pdf 
 
   
-  # - title: "Talks"
-  #   url: /talks/   
+  - title: "News"
+    url: /talks/   
     
   # - title: "Portfolio"
   #   url: /portfolio/
