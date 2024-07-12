@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Exploring Artificial Intelligence (AI) Techniques for Forecasting Network Traffic: Network QoS and Security Perspectives"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2010-10-01-paper-title-number-3
+excerpt: 'This thesis identifies the research gaps in the field of network intrusion detection and network QoS prediction, and proposes novel solutions to address these challenges.'
+date: 2022-08-30
+venue: 'Master's Thesis, Western University'
+# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://ir.lib.uwo.ca/etd/8861/'
+# citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This thesis identifies the research gaps in the field of network intrusion detection and network QoS prediction, and proposes novel solutions to address these challenges. Our first topic presents a novel network intrusion detection system using a stacking ensemble technique using UNSW-15 and CICIDS-2017 datasets. In contrast to earlier research, our proposed novel network intrusion detection techniques not only determine if the network traffic is benign or normal, but also reveal the type of assault in the flow. Our proposed stacking ensemble model provides a more effective detection capability than the existing works. Our proposed stacking ensemble technique can detect 90.4% and 98.7% cyberattacks with an f1-score of 90.0% and 98.5%, respectively. Our second topic proposes a novel QoS prediction model tested in a live 5G network environment. Compared to the existing work in this domain, our study is the first approach to conduct a large-scale field test in a 5G network to measure and forecast the network QoS metrics. More than 50 days of continuous data have been collected, cleaned, and used for training the deep sequence models to predict the 5G network QoS metrics such as throughput, latency, jitter, and packet loss. Our experiments demonstrate the effectiveness of predicting the QoS metrics using LSTM and LSTM Encoder-Decoder models, providing lower prediction errors of 14.57% and 13.75%, respectively.
