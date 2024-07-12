@@ -6,5 +6,6 @@ permalink: /publication/ENIDS
 date: 2024-06-14
 venue: 'IEEE Transactions on Network and Service Management'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10557716'
-slidesurl: '[10.1109/TNSM.2024.3414305](https://doi.org/10.1109/TNSM.2024.3414305)'
+
 ---
+'[DOI](https://doi.org/10.1109/TNSM.2024.3414305)'
