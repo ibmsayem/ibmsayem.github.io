@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: "CV"
+title: "CV"
 permalink: /cv/
 url: /files/Resume.pdf 
 author_profile: true
@@ -8,11 +8,11 @@ redirect_from:
   - /resume
 ---
 
-{% Download a copy of [my full cv](url)%}
+{% include base_path %}
 
-<!-- Resume Download
+Resume Download
 ======
-Download a copy of [my full cv](../files/Resume.pdf) -->
+Download a copy of [my full cv](url)
 
 Education
 ======
