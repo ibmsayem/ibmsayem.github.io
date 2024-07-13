@@ -1,7 +1,7 @@
 ---
 title: "WING-5GQoS-2023: QoS Performance Analyzer Tool and Pattern Prediction Using Deep Sequence Models"
 collection: publications
-permalink: /publication/2022-02-17-paper-title-number-4
+permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Our study of previous QoS datasets for networks shows that most of the available datasets are generated either in a simulated environment or using different network performance test applications that do not reflect the real-life use cases of the network. Furthermore, some other datasets were generated in an uncontrolled environment using the 4G network, with fluctuations in performance across dayparts as the number of users varies. To overcome the shortages of available QoS datasets collected from real-time network traffic WING LABS developed a dataset named WING-5G-QoS2023 composed of four different 5G QoS metrics. '
 date: 2023-11-30
 venue: 'Elsevier, Computer Networks'
