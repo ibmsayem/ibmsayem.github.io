@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-url: /files/Resume.pdf 
+# url: /files/Resume.pdf 
 author_profile: true
 redirect_from:
   - /resume
@@ -12,11 +12,11 @@ redirect_from:
 
 Resume Download
 ======
-Download a copy of [my full cv](url)
+Download a copy of [my full cv](Resume.pdf)
 
 Education
 ======
-* M.Sc. in Computer Science (Thesis-based), Western University, 2014
+* M.Sc. in Computer Science (Thesis-based), Western University, 2022
 * B.Sc. in Computer Science & Engineering, University of chittagong, 2018
 
 Work experience
