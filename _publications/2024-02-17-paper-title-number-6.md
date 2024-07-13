@@ -1,5 +1,5 @@
 ---
-title: "https://ieeexplore.ieee.org/abstract/document/8613996"
+title: "Integrating Face Recognition Security System with the Internet of Things"
 collection: publications
 permalink: /publication/2018-02-17-paper-title-number-7
 # excerpt: 'This paper investigates the performance of Logistic Regression, Random Forest, Decision Tree and SVM (Support Vector Machine). The proposed system shows results according to accuracy, sensitivity, specificity, precision of above techniques.'
