@@ -7,11 +7,11 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
 Resume Download
 ======
 Download a copy of [my full cv](files/Resume.pdf)
-
-{% include base_path %}
 
 Education
 ======
