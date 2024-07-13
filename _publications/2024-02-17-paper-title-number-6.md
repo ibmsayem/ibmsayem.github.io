@@ -1,13 +1,13 @@
 ---
-title: "Integrating Face Recognition Security System with the Internet of Things"
+title: "Analysis of machine learning techniques for credit card fraud detection"
 collection: publications
-permalink: /publication/2018-02-17-paper-title-number-7
-# excerpt: 'This paper investigates the performance of Logistic Regression, Random Forest, Decision Tree and SVM (Support Vector Machine). The proposed system shows results according to accuracy, sensitivity, specificity, precision of above techniques.'
-date: 2019-01-17
-venue: '2018 International Conference on Machine Learning and Data Engineering (iCMLDE)'
+permalink: /publication/2019-02-17-paper-title-number-6
+excerpt: 'This paper investigates the performance of Logistic Regression, Random Forest, Decision Tree and SVM (Support Vector Machine). The proposed system shows results according to accuracy, sensitivity, specificity, precision of above techniques.'
+date: 2019-02-13
+venue: '2019 International Conference on Machine Learning and Data Engineering (iCMLDE)'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/8613996'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8995753'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-A perennial need for safety in the community depends on country, city, and district. In some instances, feeling safe is required on a 24/7 basis. A popular and cost-effective solution based on the Raspberry Pi has the promise of being both user-friendly and costeffective. It pairs the Raspberry Pi to a camera module for face recognition. It learns to detect those with granted access to the specified area under protection. Such stored faces are the subject of system training. If during operation the system recognizes the face in the dataset, then the camera shows the matching name with a confidence level possibly granting access, but alternatively it takes a photo of the subject and sends it as an email notifications warning. The proposed system can implement face recognition even from poor quality images performing well over both known and unknown datasets. Face recognition leverages techniques from the OpenCV library and is written in the Python language.
+Rapid and easy transaction through credit card system has increased fallacious cases everywhere. Machine Learning algorithms has been applied for identifying fraudulent transactions. Fraud detection problem have two major issues, firstly, the legitimate and fraudsters consistently change behaviour and secondly, datasets are severely skewed. Implementation of the system littered with machine learning algorithms, excerpting variables and sampling accession on datasets. This paper investigates the performance of Logistic Regression, Random Forest, Decision Tree and SVM (Support Vector Machine). The proposed system shows results according to accuracy, sensitivity, specificity, precision of above techniques. Transactions in the dataset are heavily right skewed. Undersampling and oversampling is conducted on the data. The work is implemented in Python.
