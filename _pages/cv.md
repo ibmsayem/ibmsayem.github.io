@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+Resume Download
+======
+Download a copy of [my full cv](C:\Users\ibmcs\OneDrive\Desktop\ibmsayem.github.io\files\Resume.pdf)
+
 {% include base_path %}
 
 Education
