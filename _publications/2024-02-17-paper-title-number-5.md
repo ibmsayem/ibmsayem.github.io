@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-02-17-paper-title-number-5
 excerpt: 'In this study two different approaches of controller placement were thoroughly examined and combined to offer a solution that minimizes the propagation delay among nodes and maximizes the QoS of the network by maintaining better load balancing.'
 date: 2022-02-02
-venue: 'International Journal of Advanced Networking and Applications
+venue: 'International Journal of Advanced Networking and Applications'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://www.proquest.com/docview/2639044837?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals'
 
