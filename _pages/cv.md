@@ -9,7 +9,7 @@ redirect_from:
 
 Resume Download
 ======
-Download a copy of [my full cv](C:/Users/ibmcs/OneDrive/Desktop/ibmsayem.github.io/files/Resume.pdf)
+Download a copy of [my full cv](files/Resume.pdf)
 
 {% include base_path %}
 
@@ -27,7 +27,7 @@ Work experience
   * Data Structure & Algorithms
   * Modern Web Programming
 
-* [Community of Guardians] (https://communityofguardians.com/): Full-stack Developer (April 2023 - December 2023)
+* [Community of Guardians](https://communityofguardians.com/): Full-stack Developer (April 2023 - December 2023)
   * Developed and implemented RESTful APIs using Node.js and Express, enabling seamless communication between front-end and back-end systems; resulting in a 40% reduction in data retrieval and storage time for improved system performance.
   * Tech Stack: Node.js, Express.js, React.js, MongoDB
 
@@ -56,7 +56,7 @@ Work experience
   * CSE-2321 Data Structure and Algorithms, Spring 2020
   * CSE-3631 Operating Systems, Autumn 2020
 
-* [Ranx] (https://www.ranx.com/): Web and Mobile Application Developer (August 2023 - February 2024)
+* [Ranx](https://www.ranx.com/): Web and Mobile Application Developer (August 2023 - February 2024)
   * Created a core ranking module for Rankmylist based on interactive pie and line charts. Developed automated data visualization charts to draw insights from submitted rankings using d3.js.
   * Contributed to building image upload, automated image resizing, hyphenation system, comment, and reply system.
   * Developed and maintained diagnostic functions to ensure data integrity and user experience. Collaborated with the team to improve data validation processes, reducing errors and enhancing system reliability.
