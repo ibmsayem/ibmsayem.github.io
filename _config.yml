@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Computer Science Aficionado"
   location         : "Toronto, ON, CA"
-  employer         : "Western University"
-  uri              : "https://ibmsayem.github.io/"
+  employer         : "Humber College"
+  # uri              : "https://ibmsayem.github.io/"
   email            : "isayem@uwo.ca" 
 
   # Academic websites
