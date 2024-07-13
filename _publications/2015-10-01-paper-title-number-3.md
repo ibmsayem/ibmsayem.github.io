@@ -1,7 +1,7 @@
 ---
 title: "Exploring Artificial Intelligence (AI) Techniques for Forecasting Network Traffic: Network QoS and Security Perspectives"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2010-10-01-paper-title-number-3
 excerpt: 'This thesis identifies the research gaps in the field of network intrusion detection and network QoS prediction, and proposes novel solutions to address these challenges.'
 date: 2022-08-30
 venue: 'Masters Thesis, Western University'
