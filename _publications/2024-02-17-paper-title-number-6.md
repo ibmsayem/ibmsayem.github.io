@@ -3,7 +3,7 @@ title: "Analysis of machine learning techniques for credit card fraud detection"
 collection: publications
 permalink: /publication/2019-02-17-paper-title-number-6
 excerpt: 'This paper investigates the performance of Logistic Regression, Random Forest, Decision Tree and SVM (Support Vector Machine). The proposed system shows results according to accuracy, sensitivity, specificity, precision of above techniques.'
-date: 2019-02-13
+date: 2020-02-13
 venue: '2019 International Conference on Machine Learning and Data Engineering (iCMLDE)'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8995753'
