@@ -1,12 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "WING-5GQoS-2023: QoS Performance Analyzer Tool and Pattern Prediction Using Deep Sequence Models"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'Our study of previous QoS datasets for networks shows that most of the available datasets are generated either in a simulated environment or using different network performance test applications that do not reflect the real-life use cases of the network. Furthermore, some other datasets were generated in an uncontrolled environment using the 4G network, with fluctuations in performance across dayparts as the number of users varies. To overcome the shortages of available QoS datasets collected from real-time network traffic WING LABS developed a dataset named WING-5G-QoS2023 composed of four different 5G QoS metrics. '
+date: 2023-11-30
+venue: 'Elsevier, Computer Networks'
+# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://www.sciencedirect.com/journal/computer-networks [Embargo]'
+# citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Fifth generation (5G) is wireless network technology designed to provide efficient Quality of Service (QoS) by enabling high data rates, low latency, high reliability, and high availability. In such environments, data optimization and forecasting to manage network traffic and sustain QoS is the primary necessity for users. Thus, managing the QoS metrics such as– throughput, latency, packet loss, and jitter parameters can improve the network resource efficiently. This research introduces the first-ever software tool to collect QoS data of 5G networks, including throughput, latency, jitter, and packet loss from a large-scale field test by uploading and downloading different file types to and from a controlled environment-based server. Our research covers real-life use cases of networks, such as collecting data from crowded areas covered with 5G networks within a specific time frame. This is done to analyze the behaviors of the 5G networks in different time ranges and users' engagement during the weekends and weekdays. Finally, we used different AI techniques to predict the collected 5G QoS data are utilized to   In order to predict the 5G network QoS metrics, including throughput download and upload, more than 50 days of continuous data have been collected, cleaned, and used for training the deep sequence models. Finally, we employed a time-series forecasting approach by using various machine learning (ML) and deep learning (DL) models to forecast throughput during various periods of the weekdays or weekends, including the morning, evening, and afternoon. With decreased prediction errors of 14.57% and 13.75%, respectively, our experiments show the effectiveness of utilizing LSTM and LSTM encoder-decoder models to forecast QoS metrics in the 5G network.
