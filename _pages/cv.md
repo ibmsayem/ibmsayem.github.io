@@ -11,7 +11,7 @@ redirect_from:
 
 Resume Download
 ======
-Download a copy of [my full cv](files/Resume.pdf)
+Download a copy of [my full cv](../files/Resume.pdf)
 
 Education
 ======
