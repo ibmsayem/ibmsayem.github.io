@@ -10,8 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
-Resume Download
-======
+<!-- Resume Download
+====== -->
 Download a copy of [my full cv](Resume.pdf)
 
 Education
@@ -85,12 +85,12 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
