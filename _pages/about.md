@@ -19,7 +19,7 @@ redirect_from:
 
 🧑🏻‍🎓 Completed Master's in Computer Science from [Western University](https://ir.lib.uwo.ca/etd/8861/) and Bachelor in Computer Science from University of Chittagong.
 
-👨‍💻 Actively looking for Ph.D. positions in Computer Science focused on GenAI Security domain.
+👨‍💻 Actively looking for Ph.D. positions in Computer Science focused on GenAI Security in Cyberspace.
 
 
 
