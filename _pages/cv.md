@@ -32,9 +32,10 @@ Work experience
   * Developed and implemented RESTful APIs using Node.js and Express, enabling seamless communication between front-end and back-end systems; resulting in a 40% reduction in data retrieval and storage time for improved system performance.
   * Tech Stack: Node.js, Express.js, React.js, MongoDB
 
-* Seneca Polytechnic: Instructor (August 2023 - February 2024)
+* Seneca Polytechnic: Instructor (May 2023 - December 2023)
   * Database concept & Design
   * Data Structure & Algorithms
+  * Information Security
 
 * Western University: Graduate Teaching Assistant (January 2021 - December 2022)
   * COMPSCI-1027B Computer Science Fundamentals II (OOP), Winter 2021 
@@ -57,7 +58,7 @@ Work experience
   * CSE-2321 Data Structure and Algorithms, Spring 2020
   * CSE-3631 Operating Systems, Autumn 2020
 
-* [Ranx](https://www.ranx.com/): Web and Mobile Application Developer (August 2023 - February 2024)
+* [Ranx](https://www.ranx.com/): Web and Mobile Application Developer (December 2018 - April 2020)
   * Created a core ranking module for Rankmylist based on interactive pie and line charts. Developed automated data visualization charts to draw insights from submitted rankings using d3.js.
   * Contributed to building image upload, automated image resizing, hyphenation system, comment, and reply system.
   * Developed and maintained diagnostic functions to ensure data integrity and user experience. Collaborated with the team to improve data validation processes, reducing errors and enhancing system reliability.

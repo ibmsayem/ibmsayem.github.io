@@ -9,17 +9,17 @@ redirect_from:
 ---
 
 
-👨‍🏫 I am a Computer Science instructor at [Humber College](https://www.humber.ca/).
+👨‍🏫 I am a Computer Science Instructor at [Humber College](https://www.humber.ca/).
 
-👨‍💻 Currently actively looking for Ph.D. positions in Computer Science.
+👨‍💻 Currently actively looking for Ph.D. positions in Computer Science focused on GenAI Security in different domains, HCI and BioInformatics.
 
-🧑🏻‍💻 My research focuses on leveraging ML and DL for enhancing network security, including real-time threat detection and adaptive responses using reinforcement learning (RL). Additionally, I explore securing ML and DL systems across domains such as NLP, computer vision, and other AI applications by identifying vulnerabilities and implementing robust defense mechanisms.
+🧑🏻‍💻 My research investigates the application of machine learning (ML) and deep learning (DL) techniques to enhance network security, with a particular emphasis on real-time threat detection and adaptive response mechanisms through reinforcement learning (RL). I am also focusing on exploring the possible security threats in the  Generative AI (GenAI) domains. In the domain of GenAI, I explore how these technologies are transforming human-computer interaction (HCI) by enabling more intuitive and context-aware user experiences. Additionally, I am engaged in examining how AI-driven methodologies can be applied to bioinformatics, aiming to advance the analysis of complex biological data and improve predictive models in areas such as genomics and proteomics
 
 🧑🏻‍💻 Currently working on NLP-based techniques for securing chatbots and virtual assistants. Applying network AI-based security measures in software deployment phases of CI/CD pipelines.
 
 🧑🏻‍🎓 Completed Master's in Computer Science from [Western University](https://ir.lib.uwo.ca/etd/8861/) and Bachelor in Computer Science from University of Chittagong.
 
-👨‍💻 Actively looking for Ph.D. positions in Computer Science focused on GenAI Security in Cyberspace.
+👨‍💻 Actively looking for Ph.D. positions in Computer Science focused on GenAI Security in different domains, HCI and BioInformatics.
 
 
 
