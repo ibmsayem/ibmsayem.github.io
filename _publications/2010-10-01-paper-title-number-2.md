@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-02-17-paper-title-number-2
 excerpt: 'Our study of previous QoS datasets for networks shows that most of the available datasets are generated either in a simulated environment or using different network performance test applications that do not reflect the real-life use cases of the network. Furthermore, some other datasets were generated in an uncontrolled environment using the 4G network, with fluctuations in performance across dayparts as the number of users varies. To overcome the shortages of available QoS datasets collected from real-time network traffic WING LABS developed a dataset named WING-5G-QoS2023 composed of four different 5G QoS metrics. '
 date: 2023-11-30
-venue: 'Elsevier, Computer Networks [Embargo after Accepted]'
+venue: '[Currently in Embargo]'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://ir.lib.uwo.ca/etd/8861/ '
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
