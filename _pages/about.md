@@ -11,15 +11,19 @@ redirect_from:
 
 👨‍🏫 I am a Computer Science Instructor at [Humber College](https://www.humber.ca/).
 
-👨‍💻 Currently actively looking for Ph.D. positions in Computer Science focused on GenAI Security in different domains, HCI and BioInformatics.
+👨‍💻 Currently actively looking for Ph.D. positions in Computer Science focused on Machine Learning, graph mining (temporal graph), Computational social science, Responsible AI, Algorithmic Fairness, and GenAI Security in different domains.
 
-🧑🏻‍💻 My research investigates the application of machine learning (ML) and deep learning (DL) techniques to enhance network security, with a particular emphasis on real-time threat detection and adaptive response mechanisms through reinforcement learning (RL). I am also focusing on exploring the possible security threats in the  Generative AI (GenAI) domains. In the domain of GenAI, I explore how these technologies are transforming human-computer interaction (HCI) by enabling more intuitive and context-aware user experiences. Additionally, I am engaged in examining how AI-driven methodologies can be applied to bioinformatics, aiming to advance the analysis of complex biological data and improve predictive models in areas such as genomics and proteomics
+🧑🏻‍💻 I am exploring the research directions in the application of temporal graphs for machine learning, in network traffic forecasting, and computational social science. I am also focusing on exploring the possible security threats in the  Generative AI (GenAI) domains. Additionally, I want to explore Trustworthy Machine Learning, focusing on Algorithmic Fairness within Gen AI Models, and exploring the challenges of applying machine learning to real-world contexts, including fairness, privacy, adversarial robustness, and model compression, particularly for low-resource languages. 
+<!-- My research investigates the application of machine learning (ML) and deep learning (DL) techniques to enhance network security, with a particular emphasis on real-time threat detection and adaptive response mechanisms through reinforcement learning (RL). -->
+
+<!-- In the domain of GenAI, I explore how these technologies are transforming human-computer interaction (HCI) by enabling more intuitive and context-aware user experiences.  -->
+<!-- Additionally, I am engaged in examining how AI-driven methodologies can be applied to bioinformatics, aiming to advance the analysis of complex biological data and improve predictive models in areas such as genomics and proteomics -->
 
 🧑🏻‍💻 Currently working on NLP-based techniques for securing chatbots and virtual assistants. Applying network AI-based security measures in software deployment phases of CI/CD pipelines.
 
 🧑🏻‍🎓 Completed Master's in Computer Science from [Western University](https://ir.lib.uwo.ca/etd/8861/) and Bachelor in Computer Science from University of Chittagong.
 
-👨‍💻 Actively looking for Ph.D. positions in Computer Science focused on GenAI Security in different domains, HCI and BioInformatics.
+👨‍💻 Actively looking for Ph.D. positions in Computer Science focused on Machine Learning, graph mining (temporal graph), Computational social science, Responsible AI, Algorithmic Fairness, and GenAI Security in different domains.
 
 
 
