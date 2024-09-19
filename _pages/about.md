@@ -21,7 +21,7 @@ redirect_from:
 <!-- In the domain of GenAI, I explore how these technologies are transforming human-computer interaction (HCI) by enabling more intuitive and context-aware user experiences.  -->
 <!-- Additionally, I am engaged in examining how AI-driven methodologies can be applied to bioinformatics, aiming to advance the analysis of complex biological data and improve predictive models in areas such as genomics and proteomics -->
 
-🧑🏻‍💻 Currently working on NLP-based techniques for securing chatbots and virtual assistants. Working Metamorphic testing in Gen AI (specifically LLM) Security.
+🧑🏻‍💻 Currently working on NLP-based techniques for securing chatbots and virtual assistants. Working on Metamorphic testing in Gen AI (specifically LLM) Security.
 
 🧑🏻‍🎓 Completed Master's in Computer Science from [Western University](https://ir.lib.uwo.ca/etd/8861/) and Bachelor in Computer Science from University of Chittagong.
 
