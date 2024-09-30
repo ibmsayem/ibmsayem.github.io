@@ -11,11 +11,14 @@ redirect_from:
 
 👨‍🏫 I am a Computer Science Instructor at [Humber College](https://www.humber.ca/).
 
-👨‍💻 Currently actively looking for Ph.D. positions in Computer Science focused on intersection of machine learning (ML), Big data management and analysis, Responsible AI, Algorithmic Fairness, AI security/privacyfor systems incorporating Gen AI models.
+👨‍💻 Currently actively looking for Ph.D. positions in Computer Science focused on intersection of machine learning (ML), Big data management and analysis, Data Security & Privacy, Trusted Execution Environments (TEEs), AI security/safety, Computational Biology, and Genomic Algorithms.
 
 <!-- I am exploring the application of temporal graphs in machine learning, with a focus on advancing network traffic forecasting and uncovering new insights in computational social science. -->
 
-🧑🏻‍💻  I am exploring the possible security threats in the  Generative AI (GenAI) domains. Additionally, I want to explore Trustworthy Machine Learning, focusing on Algorithmic Fairness within Gen AI Models and the challenges of applying ML to real-world contexts, including fairness, privacy, adversarial robustness, and model compression, particularly for low-resource languages. I am also interested in working in security and privacy for big-data management and analysis. 
+🧑🏻‍💻  My research interests focus on Machine Learning, Big data management and analysis, Data Security / Privacy,
+Trusted Execution Environments (TEEs), AI security/safety, Computational Biology, and Genomic Algorithms.
+
+<!-- I am exploring the possible security threats in the  Generative AI (GenAI) domains. Additionally, I want to explore Trustworthy Machine Learning, focusing on Algorithmic Fairness within Gen AI Models and the challenges of applying ML to real-world contexts, including fairness, privacy, adversarial robustness, and model compression, particularly for low-resource languages. I am also interested in working in security and privacy for big-data management and analysis.  -->
 <!-- My research investigates the application of machine learning (ML) and deep learning (DL) techniques to enhance network security, with a particular emphasis on real-time threat detection and adaptive response mechanisms through reinforcement learning (RL). -->
 
 <!-- In the domain of GenAI, I explore how these technologies are transforming human-computer interaction (HCI) by enabling more intuitive and context-aware user experiences.  -->
