@@ -11,7 +11,7 @@ redirect_from:
 
 👨‍🏫 I am a Computer Science Instructor at [Humber College](https://www.humber.ca/).
 
-👨‍💻 Currently actively looking for Ph.D. positions in Computer Science focused on intersection of machine learning (ML), Big data management and analysis, Data Security & Privacy, Trusted Execution Environments (TEEs), AI security/safety, Computational Biology, and Genomic Algorithms.
+👨‍💻 Currently actively looking for Ph.D. positions in Computer Science for Summer 2025 or Fall 2025. I am a domestic applicant.
 
 <!-- I am exploring the application of temporal graphs in machine learning, with a focus on advancing network traffic forecasting and uncovering new insights in computational social science. -->
 
