@@ -11,7 +11,7 @@ redirect_from:
 
 👨‍🏫 I am a Computer Science Instructor at [Humber College](https://www.humber.ca/).
 
-👨‍💻 Currently actively looking for **PhD opportunity** in Computer Science for **Summer 2025 or Fall 2025**. I am a **Domestic Applicant**.
+👨‍💻 Currently actively looking for **PhD opportunity** in Computer Science for **Summer 2025 or Fall 2025**. I am a **Permanent Resident in Canada**.
 
 <!-- I am exploring the application of temporal graphs in machine learning, with a focus on advancing network traffic forecasting and uncovering new insights in computational social science. -->
 
