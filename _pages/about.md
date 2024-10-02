@@ -15,15 +15,21 @@ redirect_from:
 
 <!-- I am exploring the application of temporal graphs in machine learning, with a focus on advancing network traffic forecasting and uncovering new insights in computational social science. -->
 
-🧑🏻‍💻  My research interests focus on Machine Learning, Data Security / Privacy, Trusted Execution Environments (TEEs), AI security/safety, Computational Biology, and Genomic Algorithms. I am also interested in working in security and privacy for big-data management and analysis.
+🧑🏻‍💻  My research interests reside at the intersection of Machine Learning (ML), Software Engineering, and System/Network Security & Privacy. 
+
+- I focus on enhancing transparency, reliability, and accountability in ML systems, applying adversarial robustness techniques, and leveraging ML to strengthen security and privacy. 
+- Additionally, I explore the dual role of Gen AI in enhancing and threatening security, while developing hybrid methods to detect and mitigate vulnerabilities. 
+- I am also interested in using Large Language Models (LLMs) for code generation and repair, improving long-range dependency handling in code, and automating repetitive software engineering tasks to boost productivity. 
+- Exploring Trusted Execution Environments (TEEs) for securing algorithms.
 
 <!-- I am exploring the possible security threats in the  Generative AI (GenAI) domains. Additionally, I want to explore Trustworthy Machine Learning, focusing on Algorithmic Fairness within Gen AI Models and the challenges of applying ML to real-world contexts, including fairness, privacy, adversarial robustness, and model compression, particularly for low-resource languages. I am also interested in working in security and privacy for big-data management and analysis.  -->
 <!-- My research investigates the application of machine learning (ML) and deep learning (DL) techniques to enhance network security, with a particular emphasis on real-time threat detection and adaptive response mechanisms through reinforcement learning (RL). -->
 
-<!-- In the domain of GenAI, I explore how these technologies are transforming human-computer interaction (HCI) by enabling more intuitive and context-aware user experiences.  -->
+<!-- In the domain of GenAI, I explore how these technologies are transforming human-computer interaction (HCI) by enabling more intuitive and context-aware user experiences. Trusted Execution Environments (TEEs), AI security/safety, Computational Biology, and Genomic Algorithms. I am also interested in working in security and privacy for big-data management and analysis.  -->
+
 <!-- Additionally, I am engaged in examining how AI-driven methodologies can be applied to bioinformatics, aiming to advance the analysis of complex biological data and improve predictive models in areas such as genomics and proteomics -->
 
-🧑🏻‍💻 Currently working on NLP-based techniques for securing chatbots and virtual assistants. Working on Metamorphic testing in Gen AI (specifically LLM) Security.
+<!-- 🧑🏻‍💻 Currently working on NLP-based techniques for securing chatbots and virtual assistants. Working on Metamorphic testing in Gen AI (specifically LLM) Security. -->
 
 🧑🏻‍🎓 Completed Master's in Computer Science from [Western University](https://ir.lib.uwo.ca/etd/8861/) and Bachelor in Computer Science from University of Chittagong.
 
