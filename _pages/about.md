@@ -18,9 +18,9 @@ redirect_from:
 🧑🏻‍💻  My research interests reside at the intersection of Machine Learning (ML), Software Engineering, and System/Network Security & Privacy:  
 
 - I focus on enhancing transparency, reliability, and accountability in ML systems, applying adversarial robustness techniques, and leveraging ML to strengthen security and privacy. 
-- Additionally, I explore the dual role of Gen AI in enhancing and threatening security, while developing hybrid methods to detect and mitigate vulnerabilities. 
 - I am also interested in using Large Language Models (LLMs) for code generation and repair, improving long-range dependency handling in code, and automating repetitive software engineering tasks to boost productivity. 
-- I am curious about security and privacy in big data management and analysis, emphasizing using Trusted Execution Environments (TEEs) to secure algorithms.
+- Additionally, I explore the dual role of Gen AI in enhancing and threatening security, while developing hybrid methods to detect and mitigate vulnerabilities. 
+<!-- - I am curious about security and privacy in big data management and analysis, emphasizing using Trusted Execution Environments (TEEs) to secure algorithms. -->
 
 <!-- I am exploring the possible security threats in the  Generative AI (GenAI) domains. Additionally, I want to explore Trustworthy Machine Learning, focusing on Algorithmic Fairness within Gen AI Models and the challenges of applying ML to real-world contexts, including fairness, privacy, adversarial robustness, and model compression, particularly for low-resource languages. I am also interested in working in security and privacy for big-data management and analysis.  -->
 <!-- My research investigates the application of machine learning (ML) and deep learning (DL) techniques to enhance network security, with a particular emphasis on real-time threat detection and adaptive response mechanisms through reinforcement learning (RL). -->
