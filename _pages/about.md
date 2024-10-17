@@ -20,7 +20,7 @@ redirect_from:
 - I am deeply interested in the intersection of machine learning, security, and privacy, with a focus on data security and privacy, particularly in the context of Differential Privacy and Federated Learning.
 - I focus on enhancing transparency, reliability, and accountability in ML systems, applying adversarial robustness techniques, and leveraging ML to strengthen security and privacy. 
 <!-- - I am also interested in using Large Language Models (LLMs) for code generation and repair, improving long-range dependency handling in code, and automating repetitive software engineering tasks to boost productivity.  -->
-- Additionally, I explore the dual role of Gen AI in enhancing and threatening security & Privacy, while developing hybrid methods to detect and mitigate vulnerabilities. 
+- Additionally, I explore the dual role of Gen AI in enhancing and threatening security & Privacy in different domains, while developing hybrid methods to detect and mitigate vulnerabilities. 
 - I am curious about security and privacy in big data management and analysis, emphasizing using Trusted Execution Environments (TEEs) to secure algorithms.
 
 <!-- I am exploring the possible security threats in the  Generative AI (GenAI) domains. Additionally, I want to explore Trustworthy Machine Learning, focusing on Algorithmic Fairness within Gen AI Models and the challenges of applying ML to real-world contexts, including fairness, privacy, adversarial robustness, and model compression, particularly for low-resource languages. I am also interested in working in security and privacy for big-data management and analysis.  -->
