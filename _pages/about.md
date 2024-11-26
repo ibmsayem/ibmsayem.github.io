@@ -22,6 +22,9 @@ redirect_from:
 - I am also interested in using Large Language Models (LLMs) for code generation and repair, improving long-range dependency handling in code, and automating repetitive software engineering tasks to boost productivity. 
 - I want to extend my current research work on LLM hallucinations detection and mitigation in code-generation and further extend it to address the LLM hallucinations during technical report handling.
 - In mining software repositories (MSR), I aim to automate code documentation to reduce manual effort, identify recurring code patterns and antipatterns to improve code quality, and analyze commit histories and issue logs for faster bug identification. Additionally, in the SE testing such as unit testing, I intend to explore how LLMs can significantly improve test case generation.
+
+🧑🏻‍🎓 Completed Master's in Computer Science from [Western University](https://ir.lib.uwo.ca/etd/8861/) and Bachelor in Computer Science from University of Chittagong.
+
 <!-- - Additionally, I explore the dual role of Gen AI in enhancing and threatening security & Privacy in different domains, while developing hybrid methods to detect and mitigate vulnerabilities. 
 - I am curious about security and privacy in big data management and analysis, emphasizing using Trusted Execution Environments (TEEs) to secure algorithms. -->
 
@@ -34,7 +37,7 @@ redirect_from:
 
 <!-- 🧑🏻‍💻 Currently working on NLP-based techniques for securing chatbots and virtual assistants. Working on Metamorphic testing in Gen AI (specifically LLM) Security. -->
 
-🧑🏻‍🎓 Completed Master's in Computer Science from [Western University](https://ir.lib.uwo.ca/etd/8861/) and Bachelor in Computer Science from University of Chittagong.
+
 
 <!-- 👨‍💻 Currently actively looking for Ph.D. positions in Computer Science focused on Machine Learning, Big data management and analysis, Responsible AI, Algorithmic Fairness, AI security/privacy, and GenAI Security in different domains,Computational social science. -->
 
