@@ -1,13 +1,13 @@
 ---
-title: "Analysis of machine learning techniques for credit card fraud detection"
+title: "A comparative study on load balancing techniques in software defined networks"
 collection: publications
-permalink: /publication/2019-02-17-paper-title-number-6
-excerpt: 'This paper investigates the performance of Logistic Regression, Random Forest, Decision Tree and SVM (Support Vector Machine). The proposed system shows results according to accuracy, sensitivity, specificity, precision of above techniques.'
-date: 2020-02-13
-venue: '2019 International Conference on Machine Learning and Data Engineering (iCMLDE)'
+permalink: /publication/2021-02-17-paper-title-number-5
+excerpt: 'In this study two different approaches of controller placement were thoroughly examined and combined to offer a solution that minimizes the propagation delay among nodes and maximizes the QoS of the network by maintaining better load balancing.'
+date: 2022-02-02
+venue: 'International Journal of Advanced Networking and Applications'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/8995753'
-# citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://www.proquest.com/docview/2639044837?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals'
+
 ---
 
-Rapid and easy transaction through credit card system has increased fallacious cases everywhere. Machine Learning algorithms has been applied for identifying fraudulent transactions. Fraud detection problem have two major issues, firstly, the legitimate and fraudsters consistently change behaviour and secondly, datasets are severely skewed. Implementation of the system littered with machine learning algorithms, excerpting variables and sampling accession on datasets. This paper investigates the performance of Logistic Regression, Random Forest, Decision Tree and SVM (Support Vector Machine). The proposed system shows results according to accuracy, sensitivity, specificity, precision of above techniques. Transactions in the dataset are heavily right skewed. Undersampling and oversampling is conducted on the data. The work is implemented in Python.
+Software-defined networking (SDN), which decouples the control plane from data plane and provides programmability to design the network, has been considered as a viable paradigm shift to ease the management of conventional networks. Studies have identified that the placement of controllers heavily impacts network performance in SDN. Many studies proposed methods regarding controller’s placement in the network to improve the performance metrics such as propagation latency, distribution of load, failure resilience, and reliability of network. However, network operators' main concern is always Quality of Service (QoS) when placing SDN controllers. Because SDN controllers are responsible for providing services to the switches, controller response time is a critical QoS criterion for network operators. In this study two different approaches of controller placement were thoroughly examined and combined to offer a solution that minimizes the propagation delay among nodes and maximizes the QoS of the network by maintaining better load balancing.

@@ -1,13 +1,13 @@
 ---
-title: "A comparative study on load balancing techniques in software defined networks"
+title: "A Multi-Classifier for DDoS Attacks Using Stacking Ensemble Deep Neural Network"
 collection: publications
-permalink: /publication/2021-02-17-paper-title-number-5
-excerpt: 'In this study two different approaches of controller placement were thoroughly examined and combined to offer a solution that minimizes the propagation delay among nodes and maximizes the QoS of the network by maintaining better load balancing.'
-date: 2022-02-02
-venue: 'International Journal of Advanced Networking and Applications'
+permalink: /publication/2022-10-01-paper-title-number-4
+excerpt: 'TThis paper presents a multi-classifier model using stacking ensemble deep neural networks that identify several types of DDoS attacks to address the issues mentioned above. Our proposed hybrid model incorporates Convolution Neural Network (CNN), Long Short Term Memory (LSTM), and Gated Recurrent Unit (GRU), and we show that while evaluating models with large datasets such as CIC-DDoS2019, ensemble technique increases model performance.'
+date: 2022-07-19
+venue: '2022 International Wireless Communications and Mobile Computing (IWCMC)'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://www.proquest.com/docview/2639044837?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals'
-
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9824189'
+# citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-Software-defined networking (SDN), which decouples the control plane from data plane and provides programmability to design the network, has been considered as a viable paradigm shift to ease the management of conventional networks. Studies have identified that the placement of controllers heavily impacts network performance in SDN. Many studies proposed methods regarding controller’s placement in the network to improve the performance metrics such as propagation latency, distribution of load, failure resilience, and reliability of network. However, network operators' main concern is always Quality of Service (QoS) when placing SDN controllers. Because SDN controllers are responsible for providing services to the switches, controller response time is a critical QoS criterion for network operators. In this study two different approaches of controller placement were thoroughly examined and combined to offer a solution that minimizes the propagation delay among nodes and maximizes the QoS of the network by maintaining better load balancing.
+DDoS (Distributed Denial of Service) attacks have emerged as a serious menace to the security and integrity of data and information systems. The primary aim of this attack is to take down the targeted system and prevent legitimate users from accessing its services. Identifying a DDoS attack is a challenging task, and it must be performed before initiating any countermeasure. DDoS attack detection has been effectively applied in many studies using Machine Learning (ML) and Deep Learning (DL). However, many existing models are unable to recognize the distinct and dynamic behavior of DDoS attacks because they employ datasets that were produced a long time ago and lack up-to-date attack scenarios, do not include packet-based bi-directional traffic flow, and do not contain complete network traffic. In addition, most studies carried out binary classification, however, there are many types of DDoS attacks, each with its unique characteristics. Classifying DDoS attacks can be useful when thwarting the attack and taking preventive measures. This paper presents a multi-classifier model using stacking ensemble deep neural networks that identify several types of DDoS attacks to address the issues mentioned above. Our proposed hybrid model incorporates Convolution Neural Network (CNN), Long Short Term Memory (LSTM), and Gated Recurrent Unit (GRU), and we show that while evaluating models with large datasets such as CIC-DDoS2019, ensemble technique increases model performance. According to experimental results, our proposed model can reach an accuracy of 89.4%, which outperforms other similar methods.
