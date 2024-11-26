@@ -1,7 +1,7 @@
 ---
 title: "Advancing Software Security and Reliability in Cloud Platforms through AI-based Anomaly Detection"
 collection: publications
-permalink: /publication/2008-10-01-paper-title-number-1
+permalink: /publication/2023-10-01-paper-title-number-1
 excerpt: 'This work assesses the security challenges in modern DevOps practices and focuses on detecting abnormal patterns in model deployment to enhance integrity of software delivery process.'
 date: 2024-11-19
 venue: 'ACM SIGSAC Conference on Computer and Communications Security (CCS'24)'
