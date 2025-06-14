@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-<!-- 👨‍🏫 I am a Computer Science Instructor at [Humber College](https://www.humber.ca/). -->
-
 <!-- 👨‍💻 Currently actively looking for **PhD opportunity** in Computer Science for **Summer 2025 or Fall 2025**. I am a **Permanent Resident in Canada**. -->
 
 👨‍💻 PhD student @ [**University of Waterloo**](https://cs.uwaterloo.ca/)
