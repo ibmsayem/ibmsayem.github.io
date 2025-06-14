@@ -13,17 +13,19 @@ redirect_from:
 
 <!-- 👨‍💻 Currently actively looking for **PhD opportunity** in Computer Science for **Summer 2025 or Fall 2025**. I am a **Permanent Resident in Canada**. -->
 
-👨‍💻 PhD student @ University of Waterloo
+👨‍💻 PhD student @ [**University of Waterloo**](https://cs.uwaterloo.ca/)
+
+👨‍🏫 Computer Science Instructor (Part-time) at [**Humber College**](https://www.humber.ca/).
 
 <!-- I am exploring the application of temporal graphs in machine learning, with a focus on advancing network traffic forecasting and uncovering new insights in computational social science. -->
 
-🧑🏻‍💻  My research interests reside at the intersection of Machine Learning (ML), and Software Engineering:  
+🧑🏻‍💻  I am open to collaboration in the following areas, which reflect my research interests at the intersection of Machine Learning (ML) and Software Engineering::  
 
 <!-- - I am deeply interested in the intersection of machine learning, security, and privacy, with a focus on data security and privacy, particularly in the context of Differential Privacy and Federated Learning.
 - I focus on enhancing transparency, reliability, and accountability in ML systems, applying adversarial robustness techniques, and leveraging ML to strengthen security and privacy.  -->
-- I am also interested in using Large Language Models (LLMs) for code generation and repair, improving long-range dependency handling in code, and automating repetitive software engineering tasks to boost productivity. 
-- I want to extend my current research work on LLM hallucinations detection and mitigation in code-generation and further extend it to address the LLM hallucinations during technical report handling.
-- In mining software repositories (MSR), I aim to automate code documentation to reduce manual effort, identify recurring code patterns and antipatterns to improve code quality, and analyze commit histories and issue logs for faster bug identification. Additionally, in the SE testing such as unit testing, I intend to explore how LLMs can significantly improve test case generation.
+- **LLMs for Software Engineering:** I am interested in using Large Language Models (LLMs) for code generation and repair, improving long-range dependency handling in code, and automating repetitive software engineering tasks to boost productivity. 
+- **LLM Hallucination Mitigation:** I want to extend my current research work on LLM hallucinations detection and mitigation in code-generation and further extend it to address the LLM hallucinations during technical report handling.
+- **Mining Software Repositories (MSR):** In mining software repositories (MSR), I aim to automate code documentation to reduce manual effort, identify recurring code patterns and antipatterns to improve code quality, and analyze commit histories and issue logs for faster bug identification. Additionally, in the SE testing such as unit testing, I intend to explore how LLMs can significantly improve test case generation.
 
 🧑🏻‍🎓 Completed Master's in Computer Science from [Western University](https://ir.lib.uwo.ca/etd/8861/) and Bachelor in Computer Science from University of Chittagong.
 
