@@ -9,26 +9,32 @@ redirect_from:
 ---
 
 
-<!-- 👨‍💻 Currently actively looking for **PhD opportunity** in Computer Science for **Summer 2025 or Fall 2025**. I am a **Permanent Resident in Canada**. -->
-
-👨‍💻 PhD student @ [**University of Waterloo**](https://cs.uwaterloo.ca/)
+👨‍💻 I am a **Permanent Resident in Canada**, and currently actively looking for **PhD opportunity** in Computer Science for **Fall 2026**. 
+<!-- 
+👨‍💻 PhD student @ [**University of Waterloo**](https://cs.uwaterloo.ca/) -->
 
 👨‍🏫 Adjunct Professor of Computer Science at [**Humber College**](https://www.humber.ca/) 
 
 <!-- I am exploring the application of temporal graphs in machine learning, with a focus on advancing network traffic forecasting and uncovering new insights in computational social science. -->
 
-🧑🏻‍💻  I am open to collaboration in the following areas, which reflect my research interests at the intersection of Machine Learning (ML) and Software Engineering::  
+🧑🏻‍💻  I study the intersection of machine learning (ML) with security and privacy, focusing on ML security and trust-worthiness, differential privacy, optimization of ML systems, data security, and responsible AI system development. I also investigate security challenges in software systems that integrate Large Language Models (LLMs), including vulnerabilities in LLM-generated code to build secure and trustworthy AI-driven software engineering workflows.::  
 
-<!-- - I am deeply interested in the intersection of machine learning, security, and privacy, with a focus on data security and privacy, particularly in the context of Differential Privacy and Federated Learning.
-- I focus on enhancing transparency, reliability, and accountability in ML systems, applying adversarial robustness techniques, and leveraging ML to strengthen security and privacy.  -->
-- **LLMs for Software Engineering:** I am interested in using Large Language Models (LLMs) for code generation and repair, improving long-range dependency handling in code, and automating repetitive software engineering tasks to boost productivity. 
-- **LLM Hallucination Mitigation:** I want to extend my current research work on LLM hallucinations detection and mitigation in code-generation and further extend it to address the LLM hallucinations during technical report handling.
-- **Mining Software Repositories (MSR):** In mining software repositories (MSR), I aim to automate code documentation to reduce manual effort, identify recurring code patterns and antipatterns to improve code quality, and analyze commit histories and issue logs for faster bug identification. Additionally, in the SE testing such as unit testing, I intend to explore how LLMs can significantly improve test case generation.
+<!--  -->
+<!-- - **LLMs for Software Engineering:** I am interested in using Large Language Models (LLMs) for code generation and repair, improving long-range dependency handling in code, and automating repetitive software engineering tasks to boost productivity.  -->
 
-🧑🏻‍🎓 Completed Master's in Computer Science from [Western University](https://ir.lib.uwo.ca/etd/8861/) and Bachelor in Computer Science from University of Chittagong.
+- **Secure, Privacy-Preserving, and Trustworthy Machine Learning:** I work at the intersection of machine learning, security, and privacy, focusing on building transparent, reliable, and accountable ML systems. My research explores data security and privacy through Differential Privacy and Federated Learning, advances adversarial robustness, and develops hybrid ML–security techniques to detect and mitigate vulnerabilities. I also investigate the dual role of Generative AI—both as a tool for strengthening security and as a source of emerging threats—to design resilient, privacy-preserving AI systems.
 
-<!-- - Additionally, I explore the dual role of Gen AI in enhancing and threatening security & Privacy in different domains, while developing hybrid methods to detect and mitigate vulnerabilities. 
-- I am curious about security and privacy in big data management and analysis, emphasizing using Trusted Execution Environments (TEEs) to secure algorithms. -->
+<!-- - **LLM Hallucination Mitigation:** I want to extend my current research work on LLM hallucinations detection and mitigation in code-generation and further extend it to address the LLM hallucinations during technical report handling. -->
+
+-**Secure and Trustworthy AI-Assisted Software Engineering:** I explore adversarial behaviors in AI-assisted software development, focusing on end-to-end verification of model-generated code and detection of adversarial code generation. I also extend hallucination detection to technical-report handling and integrate responsible AI principles by accounting for socio-technical impacts and data ethics.
+
+
+<!-- - **Mining Software Repositories (MSR):** In mining software repositories (MSR), I aim to automate code documentation to reduce manual effort, identify recurring code patterns and antipatterns to improve code quality, and analyze commit histories and issue logs for faster bug identification. Additionally, in the SE testing such as unit testing, I intend to explore how LLMs can significantly improve test case generation. -->
+
+🧑🏻‍🎓 Completed Master's in Computer Science from [Western University](https://ir.lib.uwo.ca/etd/8861/) and Bachelor in Computer Science from [University of Chittagong](https://cu.ac.bd/).
+
+
+<!-- - I am curious about security and privacy in big data management and analysis, emphasizing using Trusted Execution Environments (TEEs) to secure algorithms. -->
 
 <!-- I am exploring the possible security threats in the  Generative AI (GenAI) domains. Additionally, I want to explore Trustworthy Machine Learning, focusing on Algorithmic Fairness within Gen AI Models and the challenges of applying ML to real-world contexts, including fairness, privacy, adversarial robustness, and model compression, particularly for low-resource languages. I am also interested in working in security and privacy for big-data management and analysis.  -->
 <!-- My research investigates the application of machine learning (ML) and deep learning (DL) techniques to enhance network security, with a particular emphasis on real-time threat detection and adaptive response mechanisms through reinforcement learning (RL). -->
@@ -41,7 +47,7 @@ redirect_from:
 
 
 
-<!-- 👨‍💻 Currently actively looking for Ph.D. positions in Computer Science focused on Machine Learning, Big data management and analysis, Responsible AI, Algorithmic Fairness, AI security/privacy, and GenAI Security in different domains,Computational social science. -->
+
 
 
 
