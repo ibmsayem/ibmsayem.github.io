@@ -13,7 +13,7 @@ redirect_from:
 
 👨‍💻 PhD student @ [**University of Waterloo**](https://cs.uwaterloo.ca/)
 
-👨‍🏫 Computer Science Instructor (Part-time) at [**Humber College**](https://www.humber.ca/).
+👨‍🏫 Adjunct Professor of Computer Science at [**Humber College**](https://www.humber.ca/) 
 
 <!-- I am exploring the application of temporal graphs in machine learning, with a focus on advancing network traffic forecasting and uncovering new insights in computational social science. -->
 
