@@ -26,7 +26,7 @@ redirect_from:
 
 <!-- - **LLM Hallucination Mitigation:** I want to extend my current research work on LLM hallucinations detection and mitigation in code-generation and further extend it to address the LLM hallucinations during technical report handling. -->
 
--**Secure and Trustworthy AI-Assisted Software Engineering:** I explore adversarial behaviors in AI-assisted software development, focusing on end-to-end verification of model-generated code and detection of adversarial code generation. I also extend hallucination detection to technical-report handling and integrate responsible AI principles by accounting for socio-technical impacts and data ethics.
+- **Secure and Trustworthy AI-Assisted Software Engineering:** I explore adversarial behaviors in AI-assisted software development, focusing on end-to-end verification of model-generated code and detection of adversarial code generation. I also extend hallucination detection to technical-report handling and integrate responsible AI principles by accounting for socio-technical impacts and data ethics.
 
 
 <!-- - **Mining Software Repositories (MSR):** In mining software repositories (MSR), I aim to automate code documentation to reduce manual effort, identify recurring code patterns and antipatterns to improve code quality, and analyze commit histories and issue logs for faster bug identification. Additionally, in the SE testing such as unit testing, I intend to explore how LLMs can significantly improve test case generation. -->
