@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-👨‍💻 I am a **Permanent Resident in Canada**, and currently actively looking for **PhD opportunity** in Computer Science for **Fall 2026**. 
+👨‍💻 Looking for **PhD opportunity** in Computer Science for **Fall 2026** as a **Domestic Student**.
 <!-- 
 👨‍💻 PhD student @ [**University of Waterloo**](https://cs.uwaterloo.ca/) -->
 
