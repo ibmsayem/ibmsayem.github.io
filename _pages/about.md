@@ -17,7 +17,7 @@ redirect_from:
 
 <!-- I am exploring the application of temporal graphs in machine learning, with a focus on advancing network traffic forecasting and uncovering new insights in computational social science. -->
 
-🧑🏻‍💻  I study the intersection of machine learning (ML) with security and privacy, focusing on ML security and trust-worthiness, differential privacy, optimization of ML systems, data security, and responsible AI system development. I also investigate security challenges in software systems that integrate Large Language Models (LLMs), including vulnerabilities in LLM-generated code to build secure and trustworthy AI-driven software engineering workflows.::  
+🧑🏻‍💻  I study the intersection of machine learning (ML) with security and privacy, focusing on ML security and trust-worthiness, differential privacy, optimization of ML systems, data security, and responsible AI system development. I also investigate security challenges in software systems that integrate Large Language Models (LLMs), including vulnerabilities in LLM-generated code to build secure and trustworthy AI-driven software engineering workflows::  
 
 <!--  -->
 <!-- - **LLMs for Software Engineering:** I am interested in using Large Language Models (LLMs) for code generation and repair, improving long-range dependency handling in code, and automating repetitive software engineering tasks to boost productivity.  -->
