@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-👨‍💻 Looking for **PhD opportunity** in Computer Science for **Fall 2026** as a **Domestic Student**.
+<!-- 👨‍💻 Looking for **PhD opportunity** in Computer Science for **Fall 2026** as a **Domestic Student**. -->
+
+👨‍💻 Looking for **PhD opportunity** in Computer Science as a **Domestic Student**.
 <!-- 
 👨‍💻 PhD student @ [**University of Waterloo**](https://cs.uwaterloo.ca/) -->
 
