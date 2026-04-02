@@ -11,20 +11,24 @@ redirect_from:
 
 <!-- 👨‍💻 Looking for **PhD opportunity** in Computer Science for **Fall 2026** as a **Domestic Student**. -->
 
-👨‍💻 Looking for **PhD opportunity** in Computer Science as a **Domestic Student**.
-<!-- 
-👨‍💻 PhD student @ [**University of Waterloo**](https://cs.uwaterloo.ca/) -->
+<!-- 👨‍💻 Looking for **PhD opportunity** in Computer Science as a **Domestic Student**. -->
 
-👨‍🏫 Adjunct Professor of Computer Science at [**Humber College**](https://www.humber.ca/) 
+👨‍💻 PhD student @ [**University of Waterloo**](https://cs.uwaterloo.ca/) 
+
+<!-- 👨‍🏫 Adjunct Professor of Computer Science at [**Humber College**](https://www.humber.ca/)  -->
+
+
+👨‍🏫 Graduate Research & Teaching Assistant of Computer Science at [**University of Waterloo**](https://www.humber.ca/) 
+
 
 <!-- I am exploring the application of temporal graphs in machine learning, with a focus on advancing network traffic forecasting and uncovering new insights in computational social science. -->
 
-🧑🏻‍💻  I study the intersection of machine learning (ML) with security and privacy, focusing on ML security and trust-worthiness, differential privacy, optimization of ML systems, data security, and responsible AI system development. I also investigate security challenges in software systems that integrate Large Language Models (LLMs), including vulnerabilities in LLM-generated code to build secure and trustworthy AI-driven software engineering workflows::  
+🧑🏻‍💻  I study security challenges in software systems that integrate Large Language Models (LLMs), including vulnerabilities in LLM-generated code to build secure and trustworthy AI-driven software engineering workflows::  
 
 <!--  -->
-<!-- - **LLMs for Software Engineering:** I am interested in using Large Language Models (LLMs) for code generation and repair, improving long-range dependency handling in code, and automating repetitive software engineering tasks to boost productivity.  -->
+- **LLMs for Software Engineering:** I am interested in using Large Language Models (LLMs) for code generation and repair, improving long-range dependency handling in code, and automating repetitive software engineering tasks to boost productivity. 
 
-- **Secure, Privacy-Preserving, and Trustworthy Machine Learning:** I work at the intersection of machine learning, security, and privacy, focusing on building transparent, reliable, and accountable ML systems. My research explores data security and privacy through Differential Privacy and Federated Learning, advances adversarial robustness, and develops hybrid ML–security techniques to detect and mitigate vulnerabilities. I also investigate the dual role of Generative AI—both as a tool for strengthening security and as a source of emerging threats—to design resilient, privacy-preserving AI systems.
+<!-- - **Secure, Privacy-Preserving, and Trustworthy Machine Learning:** I work at the intersection of machine learning, security, and privacy, focusing on building transparent, reliable, and accountable ML systems. My research explores data security and privacy through Differential Privacy and Federated Learning, advances adversarial robustness, and develops hybrid ML–security techniques to detect and mitigate vulnerabilities. I also investigate the dual role of Generative AI—both as a tool for strengthening security and as a source of emerging threats—to design resilient, privacy-preserving AI systems. -->
 
 <!-- - **LLM Hallucination Mitigation:** I want to extend my current research work on LLM hallucinations detection and mitigation in code-generation and further extend it to address the LLM hallucinations during technical report handling. -->
 
