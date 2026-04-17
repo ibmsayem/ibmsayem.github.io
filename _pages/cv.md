@@ -21,6 +21,11 @@ Education
 
 Work experience
 ======
+* University of Waterloo: Graduate Research & Teaching Assistant (2026 - Present)
+  * Conducting research in secure and trustworthy AI-assisted software engineering
+  * Assisting in graduate and undergraduate computer science courses
+  * Mentoring students in software security and LLM-based code generation
+
 * Humber College: Instructor (January 2024 - Present)
   * Operating System
   * Application Developmnent with .Net(C#)
