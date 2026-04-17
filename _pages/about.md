@@ -37,6 +37,8 @@ redirect_from:
 
 <!-- - **Mining Software Repositories (MSR):** In mining software repositories (MSR), I aim to automate code documentation to reduce manual effort, identify recurring code patterns and antipatterns to improve code quality, and analyze commit histories and issue logs for faster bug identification. Additionally, in the SE testing such as unit testing, I intend to explore how LLMs can significantly improve test case generation. -->
 
+🧑🏻‍🎓 **PhD in Computer Science** @ [University of Waterloo](https://uwaterloo.ca/) **(2026-present)**
+
 🧑🏻‍🎓 Completed Master's in Computer Science from [Western University](https://ir.lib.uwo.ca/etd/8861/) and Bachelor in Computer Science from [University of Chittagong](https://cu.ac.bd/).
 
 
