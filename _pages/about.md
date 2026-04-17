@@ -8,18 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+🧑🏻‍🎓 **PhD in Computer Science** @ [University of Waterloo](https://uwaterloo.ca/) **(2026-present)**
 
 <!-- 👨‍💻 Looking for **PhD opportunity** in Computer Science for **Fall 2026** as a **Domestic Student**. -->
 
-<!-- 👨‍💻 Looking for **PhD opportunity** in Computer Science as a **Domestic Student**. -->
-
-👨‍💻 PhD student @ [**University of Waterloo**](https://cs.uwaterloo.ca/) 
+<!-- 👨‍💻 Looking for **PhD opportunity** in Computer Science as a **Domestic Student**. --> 
 
 <!-- 👨‍🏫 Adjunct Professor of Computer Science at [**Humber College**](https://www.humber.ca/)  -->
-
-
-👨‍🏫 Graduate Research & Teaching Assistant of Computer Science at [**University of Waterloo**](https://www.humber.ca/) 
-
 
 <!-- I am exploring the application of temporal graphs in machine learning, with a focus on advancing network traffic forecasting and uncovering new insights in computational social science. -->
 
@@ -36,8 +31,6 @@ redirect_from:
 
 
 <!-- - **Mining Software Repositories (MSR):** In mining software repositories (MSR), I aim to automate code documentation to reduce manual effort, identify recurring code patterns and antipatterns to improve code quality, and analyze commit histories and issue logs for faster bug identification. Additionally, in the SE testing such as unit testing, I intend to explore how LLMs can significantly improve test case generation. -->
-
-🧑🏻‍🎓 **PhD in Computer Science** @ [University of Waterloo](https://uwaterloo.ca/) **(2026-present)**
 
 🧑🏻‍🎓 Completed Master's in Computer Science from [Western University](https://ir.lib.uwo.ca/etd/8861/) and Bachelor in Computer Science from [University of Chittagong](https://cu.ac.bd/).
 
