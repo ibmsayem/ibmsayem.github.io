@@ -16,6 +16,7 @@ Download a copy of [my full cv](Resume.pdf)
 
 Education
 ======
+* Ph.D. in Computer Science, University of Waterloo, 2026-Present
 * M.Sc. in Computer Science (Thesis-based), Western University, 2022
 * B.Sc. in Computer Science & Engineering, University of chittagong, 2018
 
